@@ -36,3 +36,21 @@
 
 // PART3
 
+Console.WriteLine("how many times have you had covid ? ");
+var number = Console.ReadLine();
+
+var intnumber = Convert.ToInt32(number);
+
+if ( intnumber<3 && intnumber!=0)
+{
+    Console.WriteLine("How do you feel ? ");
+    var feel = Console.ReadLine();
+    Console.WriteLine("Great! ");
+}
+else
+{
+Console.WriteLine("You have to go to the hospital! ");
+}
+
+
+
