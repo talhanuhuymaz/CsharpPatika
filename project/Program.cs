@@ -9,21 +9,21 @@
 // Console.WriteLine("Merhaba " + name + " " + surname);
 
 
-var a = "Yasin kac";
+var a = "How old are you";
 
 Console.WriteLine(a);
 
-var yas = Console.ReadLine();
+var age = Console.ReadLine();
 
-var son = Convert.ToInt32(yas);
+var last = Convert.ToInt32(age);
 
-if (son >= 18 && son !=0 )
+if (last>= 18 && last !=0 )
 {
-Console.WriteLine("Partiye girebilirsin:)");
+Console.WriteLine("You can join the party :) ");
 }
 
-if (son < 18)
+if (last < 18)
 {
-Console.WriteLine("Maalesef yasiniz tutmuyor:(");
+Console.WriteLine("Sorry you can not join :( ");
 }
 
