@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\talha\\OneDrive\\Masaüstü\\project\\project.csproj": {}
+    "C:\\Users\\talha\\OneDrive\\Masaüstü\\project\\CsharpPatika\\project\\project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\talha\\OneDrive\\Masaüstü\\project\\project.csproj": {
+    "C:\\Users\\talha\\OneDrive\\Masaüstü\\project\\CsharpPatika\\project\\project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\talha\\OneDrive\\Masaüstü\\project\\project.csproj",
+        "projectUniqueName": "C:\\Users\\talha\\OneDrive\\Masaüstü\\project\\CsharpPatika\\project\\project.csproj",
         "projectName": "project",
-        "projectPath": "C:\\Users\\talha\\OneDrive\\Masaüstü\\project\\project.csproj",
+        "projectPath": "C:\\Users\\talha\\OneDrive\\Masaüstü\\project\\CsharpPatika\\project\\project.csproj",
         "packagesPath": "C:\\Users\\talha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\talha\\OneDrive\\Masaüstü\\project\\obj\\",
+        "outputPath": "C:\\Users\\talha\\OneDrive\\Masaüstü\\project\\CsharpPatika\\project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\talha\\AppData\\Roaming\\NuGet\\NuGet.Config"
